@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+
+.res {
+    width: 1600px;
+    background-color: #666;
+    margin: 0;
+}
+
+h1 {
+    color: #fff;
+    padding: 36px;
+    margin: 0;
+}
+
+.bt {
+    float: left;
+    padding: 0;
+    margin: 0;
+    border-left: 2px solid #ccc;
+    border-bottom: 2px solid #ccc;
+}
+
+.ti-1, .ti-2 {
+    width: 160px;
+    height: 160px;
+    background-color: #ccc;
+    text-align: center;
+    line-height: 160px;
+    margin: 0;
+    border-bottom: 2px solid #fff;
+}
+
+.nr {
+    float: left;
+    padding: 0;
+    margin: 0;
+    border-right: 2px solid #ccc;
+}
+
+.info-s-1, .info-s-2, .abi-s {
+    width: 1416px;
+    height: 140px;
+    padding: 20px 0 0 20px;
+    border-bottom: 2px solid #ccc;
+}
+
+.info-s-1 {
+    height: 142px;
+}
+
+.info-n, .abi-n {
+    font-weight: 700; 
+}
+
+.info-n {
+    margin: 0 4px 0 0;
+}
+
+.info-v {
+    margin: 0 36px 0 0;
+}
